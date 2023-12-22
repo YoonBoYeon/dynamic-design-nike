@@ -42,7 +42,7 @@ body {
   width: 100%;
   height: 136px;
   text-indent: -9999px;
-  background: url(../img/logo1.png) no-repeat center center
+  background: url(../logo1.png) no-repeat center center
 }
 .gnb {
   position: absolute;
@@ -103,7 +103,7 @@ body {
   font-size: 18px;
   color: #333;
   padding: 220px 0 0 0;
-  background-image: url(../img/pic1.jpg);
+  background-image: url(../pic1.jpg);
   transition: .3s;
 }
 .container section:nth-child(2) .new {
@@ -123,10 +123,10 @@ body {
 }
 
 .container section:nth-child(4) {
-  background-image: url(../img/pic4.jpg);
+  background-image: url(../pic4.jpg);
 }
 .container section:nth-child(5) {
-  background-image: url(../img/pic5.jpg);
+  background-image: url(../pic5.jpg);
   background-size: cover;
 
 }
@@ -149,20 +149,20 @@ body {
 }
 .container section:nth-child(8) {
   width: 40%;
-  background-image: url(../img/pic.8.jpg);
+  background-image: url(../pic.8.jpg);
   background-size: cover;
 }
 .container section:nth-child(9) {
   width: 40%;
-  background-image: url(../img/pic9.jpg);
+  background-image: url(../pic9.jpg);
   background-size: cover;
 }
 .container section:nth-child(10) {
-  background-image: url(../img/pic10.jpg);
+  background-image: url(../pic10.jpg);
   background-size: cover;
 }
 .container section:nth-child(11) {
-  background-image: url(../img/pic11.jpg);
+  background-image: url(../pic11.jpg);
   background-size: cover;
   padding-top: 190px;
 }
@@ -175,7 +175,7 @@ body {
   transition: all 0.3s;
 }
 .container section:nth-child(12) {
-  background-image: url(../img/pic12.jpg);
+  background-image: url(../pic12.jpg);
   background-size: cover;
   padding: 30px 30px;
 }
@@ -281,7 +281,7 @@ footer {
   .logo a {
     width: 100%;
     height: 50px;
-    background-image: url(../img/logo2.png);
+    background-image: url(../logo2.png);
   }
   .gnb {
     right: 200px;
@@ -397,7 +397,7 @@ footer {
   .header {
     height: 100vh;
     position: fixed;
-    background-image: url(../img/640-bg.jpg);
+    background-image: url(../640-bg.jpg);
   }
   .logo {
     width: 180px;
@@ -408,7 +408,7 @@ footer {
   }
   .logo a {
     height: 136px;
-    background-image: url(../img/640-Logo.png);
+    background-image: url(../640-Logo.png);
   }
   .gnb {
     display: block;
